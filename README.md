@@ -21,8 +21,8 @@
 ![Instalação](https://media.discordapp.net/attachments/1036463893234585670/1061134249907986492/Screenshot_12.png)
 
 # Tecnologias utilizadas
-> ReactJs.
-> TypeScript.
-> Styled Components.
-> Open Ai - ChatGPT.
+- ReactJs
+- TypeScript
+- Styled Components
+- Open Ai - ChatGPT
 
