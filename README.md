@@ -13,9 +13,9 @@
    - `cd Server`
    - `npm i`
    - `npm run dev`
-     ![Instalação](https://media.discordapp.net/attachments/1036463893234585670/1061133960966582313/Screenshot_11.png)
+![Instalação](https://media.discordapp.net/attachments/1036463893234585670/1061133960966582313/Screenshot_11.png)
 2. Em outro terminal:
    - `cd Web`
    - `npm i`
    - `npm run dev`
-     ![Instalação](https://media.discordapp.net/attachments/1036463893234585670/1061134249907986492/Screenshot_12.png)
+![Instalação](https://media.discordapp.net/attachments/1036463893234585670/1061134249907986492/Screenshot_12.png)
